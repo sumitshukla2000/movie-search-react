@@ -12,7 +12,7 @@ const MovieCard = (props) => {
       </div>
       <img src={props.Poster !== 'N/A' ? 
       props.Poster :
-       "http://via.placeholder.com/400"} alt="" />
+       "https://via.placeholder.com/400"} alt="" />
 
       <div className={classes.Bottom}>
           <p>

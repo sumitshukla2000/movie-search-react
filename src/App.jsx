@@ -4,7 +4,7 @@ import Search from './assets/search.svg';
 import MovieCard from './component/MovieCard/MovieCard';
 // c8fcec44
 //GLOBAL VARIABLE
-const API_URL = "http://www.omdbapi.com?apikey=c8fcec44" 
+const API_URL = "https://www.omdbapi.com?apikey=c8fcec44" 
 // const movie = 
 //   {
 //     "Title": "Italian Spiderman",

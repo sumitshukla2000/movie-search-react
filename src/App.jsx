@@ -49,7 +49,7 @@ function App() {
 
       <div className={classes.MegaContainer}>
       {
-      movies?.length > 0 ? 
+      movies.length > 0 ? 
       (
         
           movies.map((movie) => (
